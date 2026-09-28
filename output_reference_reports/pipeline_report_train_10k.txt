@@ -1,0 +1,13 @@
+============================================================
+PIPELINE REPORT (tag=train_10k)
+============================================================
+S1 rows processed     : 10,000
+Candidate pairs total : 2,541,867
+Avg candidates / S1   : 254.19
+Elapsed (s)           : 1565.7
+Positive labels       : 34,042
+Negative labels       : 2,507,825
+
+[S2] actual=16,730 found=16,439 recall=0.9826 (98.26%)
+[S3] actual=18,022 found=17,603 recall=0.9768 (97.68%)
+[COMBINED] actual=34,752 found=34,042 recall=0.9796 (97.96%)

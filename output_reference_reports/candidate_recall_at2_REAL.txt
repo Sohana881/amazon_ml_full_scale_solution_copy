@@ -1,0 +1,23 @@
+============================================================
+CANDIDATE RECALL REPORT
+============================================================
+S1 rows evaluated : 10,000
+
+[S2]
+  actual matches   : 16,730
+  matches found    : 16,439
+  recall           : 0.9826 (98.26%)
+  avg candidates/S1: 124.38
+
+[S3]
+  actual matches   : 18,022
+  matches found    : 17,603
+  recall           : 0.9768 (97.68%)
+  avg candidates/S1: 129.80
+
+[COMBINED S2+S3]
+  actual matches   : 34,752
+  matches found    : 34,042
+  recall           : 0.9796 (97.96%)
+  avg candidates/S1: 254.19
+============================================================

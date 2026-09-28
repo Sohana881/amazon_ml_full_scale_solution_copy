@@ -1,0 +1,16 @@
+
+============================================================
+CANDIDATE RECALL TEST RESULT
+============================================================
+
+S1 processed      : 1000
+Actual matches    : 3517
+Matches found     : 1568
+Matches missed    : 1949
+Candidate recall  : 0.4458
+Candidate recall %: 44.58%
+
+Total candidates  : 28143404
+Avg candidates/S1 : 28143.40
+
+============================================================
